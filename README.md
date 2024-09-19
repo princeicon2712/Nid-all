@@ -14,7 +14,11 @@ ctrl+E ২ টি nid group হয়ে যাবে।
 
  (২) invers ক্লিক করতে হবে। [ তাখলে পিছনে সাপনে সিলেট হবে ]
 
+(3) ctrl+Enter
+
 ## adobi পিছনের colore change 
+
+ctrl+enter
 
 ctrl+back button
 
