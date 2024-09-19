@@ -24,4 +24,12 @@ ctrl+ delet [remove bagraunt]
 
 ctrl+t
 
+## adobi- কোনো কিফু থেকে পূর্বে ফিরে যাওয়া
+
+ctrl+alt+Z
+
+## adobi-commant-D selet
+
+crtl+d
+
  
