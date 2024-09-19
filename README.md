@@ -17,4 +17,11 @@ ctrl+E ২ টি nid group হয়ে যাবে।
 ## adobi পিছনের colore change 
 
 ctrl+back button
+
+ctrl+ delet [remove bagraunt]
+
+## adobi-picture siz বসানু
+
+ctrl+t
+
  
