@@ -37,3 +37,6 @@ ctrl+alt+Z
 crtl+d
 
  
+## magist-tools 
+
+(1) magisk tool কিল্ক করে sfite দরে সিলেকক্ট alta দে দরে D সিলেক্ট
