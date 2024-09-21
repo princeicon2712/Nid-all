@@ -40,3 +40,8 @@ crtl+d
 ## magist-tools 
 
 (1) magisk tool কিল্ক করে sfite দরে সিলেকক্ট alta দে দরে D সিলেক্ট
+
+## collon -tool
+(1) পেনটুল দিয়ে কাজ করার পরে বাকি সাদা অংশ টুকো colone tool দিয়ে
+
+মোছে নিতে হয় alt+mause Rite cleck তার পরে টেনে টেনে সিলেক্ট
