@@ -47,3 +47,5 @@ crtl+d
 মোছে নিতে হয় alt+mause Rite cleck তার পরে টেনে টেনে সিলেক্ট
 
 ## heling brash -tool মোখের দাগ স্র্ট দোর করতে হয়।
+
+## alt+e+s ব্যাবহার করে ২ px করে picture ফ্যারেম দেওয়া হয়। 
