@@ -49,3 +49,11 @@ crtl+d
 ## heling brash -tool মোখের দাগ স্র্ট দোর করতে হয়।
 
 ## alt+e+s ব্যাবহার করে ২ px করে picture ফ্যারেম দেওয়া হয়। 
+
+## shortcut
+
+
+<!--[profile](./sho.jpg)-->
+<img src="sho.jpg" width="600"/>
+
+
