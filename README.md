@@ -50,6 +50,20 @@ crtl+d
 
 ## alt+e+s ব্যাবহার করে ২ px করে picture ফ্যারেম দেওয়া হয়। 
 
+
+## magisk tools and Elliptical marquee tool ব্যাবহার
+
+(১) magisk tool সিলেট করতে হবে।
+
+(২) elliptical টৃল দিয়ে shft পাব রেখে কিল্ক করে ডেপ করতে হবে।
+
+
+
+
+
+
+
+
 ## shortcut
 
 
