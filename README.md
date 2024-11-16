@@ -3,7 +3,11 @@
 https://prportal.nidw.gov.bd/doc-temp/nid-3760618375.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=docobj%2F20241116%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241116T083645Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=f0b79914cefb20a8005137ce90d9e76bc9bfdb5c994363752e1ecd57963f4b7e
 
 
+## Rejaul server copy api
 
+https://e-amarseba.com/nid-server-copy/public-preview/275978/3760618375
+
+https://e-amarseba.com/admin/user/profile/update-with-nid-callback?order_id=DHO6738c6382bd51
 
 # Nid-in adobi photshop
 
