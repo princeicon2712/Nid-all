@@ -9,6 +9,15 @@ https://e-amarseba.com/nid-server-copy/public-preview/275978/3760618375
 
 https://e-amarseba.com/admin/user/profile/update-with-nid-callback?order_id=DHO6738c6382bd51
 
+
+## আম্মা Nid Number 
+
+
+
+
+
+
+
 # Nid-in adobi photshop
 
 crtl+t 
