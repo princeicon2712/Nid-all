@@ -11,7 +11,7 @@ https://e-amarseba.com/admin/user/profile/update-with-nid-callback?order_id=DHO6
 
 
 ## আম্মা Nid Number :- 19799011880810285
-      জন্ম তারিখ:- 
+      জন্ম তারিখ:- 30/10/1979 ইং
 
 
 
