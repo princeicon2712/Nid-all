@@ -1,6 +1,26 @@
-## Rejaul nid api
+## আম্মা Nid:- 
+♻️INFO FOUND SUCCESS♻️
+ℹ️ Personal Info:-
+👤 Name (Bangla):- রহিমা বেগম
+👤 Name (English):- RAHIMA BAGUM
+🚻 Gender:- female
+🎂 Date of Birth:- 1979-10-30
+🆔 National ID:- 5084641124
+📍 Address Details:
+🗾 Division:- সিলেট
+🏙️ District:- সুনামগঞ্জ
+📌 Upozila:- বিশ্বম্ভরপুর
+🏘️ Union/Ward:- N/A
+📮 Post Office:- রতারগাও
+📭 Postal Code:- 3000
+🏠 Ward:- 6
+🏢 Mouza/Moholla:- রতারগাও
+🚪 Village/Road:- গোয়াইনগাও
+🏚️ Home/Holding No:- N/A
+🌍 Region:- সিলেট
 
-https://prportal.nidw.gov.bd/doc-temp/nid-3760618375.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=docobj%2F20241116%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241116T083645Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=f0b79914cefb20a8005137ce90d9e76bc9bfdb5c994363752e1ecd57963f4b7e
+
+
 
 
 ## Rejaul server copy api
