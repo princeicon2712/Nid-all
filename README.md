@@ -29,6 +29,9 @@ https://e-amarseba.com/nid-server-copy/public-preview/275978/3760618375
 
 https://e-amarseba.com/admin/user/profile/update-with-nid-callback?order_id=DHO6738c6382bd51
 
+## EIIN কলেজেের সব ইনফরমেসন
+
+http://202.72.235.218:8082/api/v1/institute/list?eiinNo=118632
 
 ## আম্মা Nid Number :- 19799011880810285
       জন্ম তারিখ:- 30/10/1979 ইং
