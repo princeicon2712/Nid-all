@@ -40,12 +40,22 @@ http://202.72.235.218:8082/api/v1/institute/list?eiinNo=118632
 
 
 
+## 4R
+W=4 in
+h=6 in
 
+## 6R
+w= 6 in
+h= 8 in
 
 ## stam size
    
-   W= 0.79
-   H= 0.99
+   W= 0.79 in
+   H= 0.99 in
+
+## passport
+W= 1.5 in
+h= 1.96 in
 
 # Nid-in adobi photshop
 
