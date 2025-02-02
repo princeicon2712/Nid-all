@@ -42,7 +42,10 @@ http://202.72.235.218:8082/api/v1/institute/list?eiinNo=118632
 
 
 
-
+## stam size
+   
+   W= 0.79
+   H= 0.99
 
 # Nid-in adobi photshop
 
