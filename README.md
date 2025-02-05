@@ -36,6 +36,9 @@ http://202.72.235.218:8082/api/v1/institute/list?eiinNo=118632
 ## আম্মা Nid Number :- 19799011880810285
       জন্ম তারিখ:- 30/10/1979 ইং
 
+## wifi ddos:-
+
+https://github.com/R3DHULK/wifi-hacking
 
 
 
