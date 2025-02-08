@@ -40,6 +40,11 @@ http://202.72.235.218:8082/api/v1/institute/list?eiinNo=118632
 
 https://github.com/R3DHULK/wifi-hacking
 
+## ফুফু Univercity rejal
+
+Rool:-2129002
+regi:- 18102040175
+pass:- 2021
 
 
 
