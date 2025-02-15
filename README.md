@@ -1,3 +1,11 @@
+
+
+nid api:- https://apinotfound.my.id/API/svsx.php?nid=8668138541&dob=1976-04-11
+
+
+nid api photo:- https://apinotfound.my.id/API/photos/3760618375.png
+
+
 ## আম্মা Nid:- 
 ♻️INFO FOUND SUCCESS♻️
 ℹ️ Personal Info:-
