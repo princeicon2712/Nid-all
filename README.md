@@ -30,6 +30,31 @@ nid api photo:- https://apinotfound.my.id/API/photos/3760618375.png
 
 
 
+{
+  "matchFound": true,
+  "nidData": {
+    "name": "রহিমা বেগম",
+    "nameEn": "RAHIMA BAGUM",
+    "nid": "5084641124",
+    "pin": "19799011880810285",
+    "dob": null,
+    "gender": "female",
+    "photo": null,
+    "mother": "মোছাঃ আছিয়া",
+    "father": "মোঃ আব্দুল মন্নান",
+    "spouse": null,
+    "presentAddress": null,
+    "permanentAddress": null,
+    "age": 0,
+    "currentDateTime": null,
+    "nid10": "5084641124",
+    "nid17": "19799011880810285"
+  },
+  "operationResult": true
+}
+
+
+
 
 ## Rejaul server copy api
 
