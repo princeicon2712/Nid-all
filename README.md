@@ -1,4 +1,4 @@
-
+nid  email:- info@nidw.gov.bd
 
 nid api:- https://api.bdansarerp.gov.bd/api/check_nid_data/?nid=3760618375&dob=200-12-27
 
